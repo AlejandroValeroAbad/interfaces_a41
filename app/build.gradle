@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'dam.alejandro.a41_interfaces'
-    compileSdk 30
+    compileSdk 33
 
     defaultConfig {
         applicationId "dam.alejandro.a41_interfaces"
